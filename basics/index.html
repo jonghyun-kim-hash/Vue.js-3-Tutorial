@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Learning Vue</title>
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <h1>Hello, Vue :)</h1>
+
+    <div id="app">
+      <!-- attribute binding -->
+      <!-- <a :href="url">YAHOO</a> -->
+      <div v-if="showBooks">
+        <ul>
+          <li
+            v-for="book in filteredBooks"
+            :class="{ fav: book.isFav }"
+            @click="toggleFav(book)"
+          >
+            <img :src="book.img" :alt="book.title" />
+            <h3>{{ book.title }}</h3>
+            <p>{{ book.author }}</p>
+            <p>{{ book.stock }}</p>
+          </li>
+        </ul>
+      </div>
+
+      <div id="footer">
+        <button @click="toggleShowBooks">
+          <span v-if="showBooks">Hide Books</span>
+          <span v-else>Show Books</span>
+        </button>
+
+        <h3 v-show="showBooks">currently showing books</h3>
+      </div>
+
+      <!-- mouse events -->
+      <!-- <div class="box" @mouseover="handleEvent($event, 5)">mouseover</div>
+      <div class="box" @mouseleave="handleEvent">mosueleave</div>
+      <div class="box" @dblclick="handleEvent">double click</div>
+      <div class="box" @mousemove="handleMousemove">
+        position ( {{ x }}, {{ y }} )
+      </div> -->
+    </div>
+  </body>
+  <script src="app.js"></script>
+</html>
