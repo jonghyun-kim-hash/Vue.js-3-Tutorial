@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blod",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?",
+      "tags": ["css", "webdev", "coding"]
+    }
+  ]
+}
