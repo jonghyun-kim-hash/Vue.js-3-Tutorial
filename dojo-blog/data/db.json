@@ -11,6 +11,12 @@
       "title": "top 5 CSS tips",
       "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?",
       "tags": ["css", "webdev", "coding"]
+    },
+    {
+      "id": 3,
+      "title": "Vue.js vs React.js",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut sunt qui unde ratione quo dolorum at commodi placeat iste totam? Dicta, rerum dolorem repellat doloremque quaerat omnis nihil eos perspiciatis?",
+      "tags": ["javascript", "react", "vue"]
     }
   ]
 }
